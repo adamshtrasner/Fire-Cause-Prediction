@@ -1,5 +1,5 @@
 # Fire-Cause-Prediction
-The goal of this project was to predict the cause of fire for fires in the USA (STATCAUSEDESCR feature) according to a given data (explained below), using machine learning methods. For this project, the Histogram-based Gradient Bossting model was chosen for fitting the model and predicting, and the model evaluation function is the weighted f1-score. 
+The goal of this project was to predict the cause of fire for fires in the USA (STATCAUSEDESCR feature) according to the train_data.csv data (attached to Releases), using machine learning methods. For this project, the Histogram-based Gradient Bossting model was chosen for fitting the model and predicting, and the model evaluation function is the weighted f1-score. 
 
 The full results are located in the final report attached to this project.
 
